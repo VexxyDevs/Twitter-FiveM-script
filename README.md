@@ -6,3 +6,10 @@ Twitter FiveM script, custom handle , realistic looking tweets
 
 
 /twitterhandle to choose a user so you can post/view twts
+
+
+your license:
+
+non commercial use 
+may not reupload without my consent
+may not edit the code 
