@@ -19,8 +19,8 @@ may not reupload without my consent
 may not edit the code 
 
 
-put this in your server.cfg
+put this in your server.cfg:
 
-start twitter
+"start twitter"
 
 
